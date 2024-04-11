@@ -1,0 +1,15 @@
+.gal_wat{
+    background-color: #EEEEEE;
+    width: 1350px;
+    text-align: center;
+}
+.title{
+    color: #474F7A;
+    font-weight: bolder;
+}
+.cal_sec{
+    gap: 30px;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
